@@ -1,0 +1,49 @@
+$ ./a.out
+
+Contents of: /home/tevisj/COSC-3503-OS/Program-13
+
+Type                     Size   Access      Status changed    Name
+----                     ----   ------      --------------    ----
+Directory                4096   rwxr-xr-x   Apr  2 05:16:01   .
+Directory                4096   rwxr-xr-x   Apr  2 05:15:03   ..
+Regular file             4975   rw-r--r--   Apr  2 05:15:14   solution13.c
+Regular file             9607   rwxr-xr-x   Apr  2 05:16:01   a.out
+
+
+
+$ ./a.out abcd1234
+
+Error changing current working directory: No such file or directory
+
+
+
+$ ./a.out abcd  1234  xyz
+
+Usage: a.out [directory_path] 
+
+
+
+$ ./a.out /dev
+
+Contents of: /dev
+
+Type                     Size   Access      Status changed    Name
+----                     ----   ------      --------------    ----
+Directory               13740   rwxr-xr-x   Apr  1 04:19:34   .
+Directory                4096   rwxr-xr-x   Jan 16 13:48:46   ..
+Character special           0   rw-rw----   Apr  1 04:19:34   nvidia0
+Character special           0   rw-rw----   Apr  1 04:19:34   nvidiactl
+Socket                      0   rw-rw-rw-   Apr  1 04:19:12   log
+Pipe or FIFO                0   rw-r-----   Apr  2 05:55:35   xconsole
+Character special           0   rw-rw----   Apr  1 04:19:12   vcsa6
+Directory                   0   r-x------   Apr  2 06:00:12   fd
+Regular file         39528192   r--------   Apr  2 06:00:12   core
+Character special           0   rw-------   Apr  1 04:18:57   console
+Regular file            52342   rwxr-xr-x   Jan  7 20:52:30   MAKEDEV
+Directory                  60   rwxr-xr-x   Apr  1 04:18:49   .static
+Block special file          0   rw-rw----   Apr  1 04:18:57   sda5
+Block special file          0   rw-rw----   Apr  1 04:18:57   sda2
+Character special           0   rw-rw----   Apr  1 04:19:12   vcs6
+Unknown type                0   rw-rw----   Apr  1 04:19:12   fgvw
+ 
+

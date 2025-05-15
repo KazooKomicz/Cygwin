@@ -1,0 +1,79 @@
+///////////////////////////////////////////////////////////////////
+// Student name: Alyssa Ballestro
+// Course: COSC 3503 - Operating Systems
+// Assignment: #5 - Reading files
+// Source Code File name: Ballestro3
+// Program's Purpose: Finds file details
+// Program's Limitations: MUST have exit handler for each output w/o closing
+// Development Computer: Lenovo Legion 5
+// Operating System: Windows 11
+// Compiler: Notepad++
+// Program's Operational Status: In Progress
+/////////////////////////////////////////////////////////////////// 
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
+// Display Use Message
+void display_use() {
+	printf("\nUsage:\n");
+	printf("\n a.out\n");
+	printf("\n a.out <enviornment_variable_name>\n");
+	printf("\n a.out -a\n");
+	exit(1);
+
+// Exit Display
+void display_exit(){
+	printf("\n* * * * * * * * * * * * * * * * * * * * * * * * * *\n");
+    printf("Environment Variable Display Program (by Alyssa Ballestro)\n");
+}
+
+// Display ONE env variable
+void display_env_var(const char *var_name) {
+	char *value = getenv(var_name);
+	if (value) {
+		printf("%s : %s\n", var_name, value);
+	} else {
+		printf("%s is not an existing enviornment variable name\n");
+	}
+}
+
+// Display ALL env variables
+void display_all_env_var (){
+	extern char **envi;
+	char **env = envi;
+	
+	while(*env) {
+		printf(%s\n", *env);
+		env++;
+	}
+}
+
+//RUNTIME
+}
+int main(int argc, char *argv[]){
+	
+	atexit(display_exit());
+	
+	if (argc == 1){
+		//NONE
+		printf("Enter the name of an enviornment variable: ");
+		char var_name[256];
+		scanf("%255s", var_name);
+		display_env_var(var_name);
+	
+	}else if (argc == 2) {
+		if(strcmp(argv[1], "-a") == 0) {
+			//ALL
+			display_all_env_var();
+		} else {
+			//SPECIFIC
+			display_env_var(argv[1]);
+		}
+	} else {
+		display_usage();
+	}
+	
+	exit(0);
+}

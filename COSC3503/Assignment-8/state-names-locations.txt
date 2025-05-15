@@ -1,0 +1,53 @@
+*** LOCATIONS OF WORDS ***
+
+ALABAMA       : starts at (14,22) and extends diagonally down to the left
+ALASKA        : starts at (12,1) and extends vertically down
+ARIZONA       : starts at (1,11) and extends horizontally to the left
+ARKANSAS      : starts at (22,12) and extends horizontally to the left
+CALIFORNIA    : starts at (19,12) and extends horizontally to the left
+COLORADO      : starts at (7,21) and extends diagonally down to the left
+CONNECTICUT   : starts at (15,5) and extends diagonally up to the right
+DELAWARE      : starts at (7,5) and extends vertically down
+FLORIDA       : starts at (12,18) and extends diagonally down to the left
+GEORGIA       : starts at (19,15) and extends diagonally up to the right
+HAWAII        : starts at (2,6) and extends horizontally to the left
+IDAHO         : starts at (20,18) and extends diagonally up to the right
+ILLINOIS      : starts at (10,21) and extends diagonally up to the left
+INDIANA       : starts at (21,10) and extends horizontally to the left
+IOWA          : starts at (1,22) and extends vertically down
+KANSAS        : starts at (22,10) and extends horizontally to the left
+KENTUCKY      : starts at (22,14) and extends horizontally to the right
+LOUISIANA     : starts at (15,11) and extends diagonally up to the right
+MAINE         : starts at (16,11) and extends diagonally up to the left
+MARYLAND      : starts at (18,4) and extends horizontally to the right
+MASSACHUSETTS : starts at (19,22) and extends diagonally up to the left
+MICHIGAN      : starts at (3,10) and extends horizontally to the left
+MINNESOTA     : starts at (17,22) and extends diagonally up to the left
+MISSISSIPPI   : starts at (10,22) and extends diagonally down to the left
+MISSOURI      : starts at (11,3) and extends vertically up
+MONTANA       : starts at (1,18) and extends horizontally to the left
+NEBRASKA      : starts at (13,8) and extends diagonally down to the left
+NEVADA        : starts at (20,19) and extends diagonally up to the left
+NEWHAMPSHIRE  : starts at (21,22) and extends horizontally to the left
+NEWJERSEY     : starts at (6,7) and extends diagonally down to the right
+NEWMEXICO     : starts at (13,22) and extends vertically up
+NEWYORK       : starts at (20,8) and extends horizontally to the left
+NORTHCAROLINA : starts at (5,4) and extends vertically down
+NORTHDAKOTA   : starts at (15,22) and extends diagonally up to the left
+OHIO          : starts at (4,20) and extends horizontally to the left
+OKLAHOMA      : starts at (4,13) and extends horizontally to the left
+OREGON        : starts at (8,20) and extends vertically up
+PENNSYLVANIA  : starts at (17,12) and extends horizontally to the left
+RHODEISLAND   : starts at (13,5) and extends diagonally up to the right
+SOUTHCAROLINA : starts at (2,20) and extends horizontally to the left
+SOUTHDAKOTA   : starts at (20,17) and extends diagonally up to the left
+TENNESSEE     : starts at (16,8) and extends diagonally up to the right
+TEXAS         : starts at (15,16) and extends diagonally down to the right
+UTAH          : starts at (15,3) and extends vertically up
+VERMONT       : starts at (5,1) and extends vertically down
+VIRGINIA      : starts at (5,5) and extends horizontally to the right
+WASHINGTON    : starts at (4,2) and extends vertically down
+WESTVIRGINIA  : starts at (14,8) and extends diagonally up to the right
+WISCONSIN     : starts at (13,12) and extends diagonally up to the left
+WYOMING       : starts at (12,21) and extends diagonally up to the left
+ 

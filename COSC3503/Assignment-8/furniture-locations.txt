@@ -1,0 +1,20 @@
+*** LOCATIONS OF WORDS ***
+
+BABYBED   : starts at (6,10) and extends horizontally to the left
+BOOKCASE  : starts at (8,2) and extends vertically up
+BUFFET    : starts at (6,10) and extends vertically up
+BUREAU    : starts at (9,5) and extends vertically up
+CABINET   : starts at (9,3) and extends horizontally to the right
+CHAIR     : starts at (5,8) and extends vertically up
+CHEST     : starts at (5,4) and extends vertically up
+CLOSET    : starts at (1,1) and extends vertically down
+DRAWERS   : starts at (8,3) and extends vertically up
+DRESSER   : starts at (7,4) and extends horizontally to the right
+ETAGERE   : starts at (1,3) and extends horizontally to the right
+HALLSTAND : starts at (10,2) and extends horizontally to the right
+LAMP      : starts at (10,1) and extends vertically up
+SEAT      : starts at (8,10) and extends horizontally to the left
+SIDEBOARD : starts at (10,6) and extends vertically up
+TABLE     : starts at (5,9) and extends vertically up
+ 
+
